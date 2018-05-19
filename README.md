@@ -1,5 +1,5 @@
 This project is a demo on using CoreML framework for sentiment analysis of text. 
-CoreML model was developer from Scikit-learn Pipeline using coremltools python package.
+```.mlmodel``` was developed from Scikit-learn Pipeline using coremltools python package.
 
 You can also use it in the form of plug and play. It is very simple and real quick.
 
