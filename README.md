@@ -16,3 +16,6 @@ If you would like to have a glimpse of the whole code and VKSentimentAnalysis.ml
 ![ezgif com-optimize](https://user-images.githubusercontent.com/21070922/40268666-22b9e79e-5b8f-11e8-91f1-0f1e5d2cdb13.gif)
 
 
+**Bonus:**
+
+This project covers how to use 3D Touch to implement peek and pop using Custom Presentation Controllers. It also shows how to add a Today Extension to the project. 
