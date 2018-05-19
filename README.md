@@ -1,4 +1,7 @@
-This project is a demo on using CoreML framework for sentiment analysis of text. You can also use it in the form of plug and play. It is very simple and real quick.
+This project is a demo on using CoreML framework for sentiment analysis of text. 
+CoreML model was developer from Scikit-learn Pipeline using coremltools python package.
+
+You can also use it in the form of plug and play. It is very simple and real quick.
 
 **Steps:**
 
@@ -9,3 +12,4 @@ This project is a demo on using CoreML framework for sentiment analysis of text.
 We are done. 
 
 If you would like to have a glimpse of the whole code and VKSentimentAnalysis.mlmodel description, you can download the project and run the sample project.
+
