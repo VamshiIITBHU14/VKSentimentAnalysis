@@ -13,3 +13,6 @@ We are done.
 
 If you would like to have a glimpse of the whole code and VKSentimentAnalysis.mlmodel description, you can download the project and run the sample project.
 
+![ezgif com-optimize](https://user-images.githubusercontent.com/21070922/40268666-22b9e79e-5b8f-11e8-91f1-0f1e5d2cdb13.gif)
+
+
